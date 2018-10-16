@@ -1,0 +1,22 @@
+[Server]
+ 192.168.56.101| 192.168.56.101| 192.168.56.101|7000|1.76=电信服务器列表
+
+[expand]
+电信服务器列表=1
+
+[Web]
+HomeUrl=http://www.lieyingdlq.com
+LogoUrl=http://www.lieyingdlq.com/link.htm
+GameUrl=http://www.lieyingdlq.com
+MoneyUrl=http://www.lieyingdlq.com
+
+ShowInitialMsg=1
+ShowNewItems=1
+
+[LoginUp]
+Ver=0
+DownUrl=http://www.lieyingdlq.com/dlq.exe
+
+[DataUp]
+Count=0
+
